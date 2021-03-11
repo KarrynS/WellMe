@@ -83,10 +83,10 @@ So that I can reach my fitness and wellbeing goals faster.
 
 ## Links
 ### Github Repository
-https://github.com/blakestickland/project2
+https://github.com/KarrynS/WellMe.git
 
 ### URL
-https://lkblt-project2.herokuapp.com/
+https://wellme.herokuapp.com/
 
 ### Screenshot
 
