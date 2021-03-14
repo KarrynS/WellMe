@@ -86,7 +86,7 @@ So that I can reach my fitness and wellbeing goals faster.
 https://github.com/KarrynS/WellMe.git
 
 ### URL
-https://lkblt-project2.herokuapp.com/
+https://wellme.herokuapp.com/
 
 ### Screenshot
 
